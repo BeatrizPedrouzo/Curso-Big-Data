@@ -5,3 +5,6 @@
   
 08/03/2023 _ Subida la carpeta con nombre ARQUITCLOUD_2 con los siguientes archivos GoogleColab:
   - Bea_M6 - 03 - Bucles v2 (Estructuras bucles for , while y secuencias numeros en Python)
+  
+09/03/2023 _ Subida la carpeta con nombre ARQUITCLOUD_2 con los siguientes archivos GoogleColab:
+  - Bea_M6 - 04 - Programación Funcional (Funciones lambda,  map, filter, reduce)
