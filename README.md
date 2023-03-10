@@ -8,3 +8,8 @@
   
 09/03/2023 _ Subida la carpeta con nombre ARQUITCLOUD_2 con los siguientes archivos GoogleColab:
   - Bea_M6 - 04 - Programación Funcional (Funciones lambda,  map, filter, reduce)
+
+10/03/2023 _ Subida la carpeta con nombre ARQUITCLOUD_3 con los siguientes archivos:
+  - Bea_M6 - 05 - SparkSession Teoría (SparkSession_SparkContext - GoogleColab file)
+  - Bea_M6 - 06 - Primer RDD Teoría (GoogleColab file)
+  - Bea_paises.csv (Dataset)
